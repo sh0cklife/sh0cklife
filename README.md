@@ -9,4 +9,5 @@
 <!---
 sh0cklife/sh0cklife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->![giphy](https://github.com/sh0cklife/sh0cklife/assets/134636754/d3c50f51-c861-4974-8037-de3a625c0b51)
+--->
+![giphy](https://github.com/sh0cklife/sh0cklife/assets/134636754/d3c50f51-c861-4974-8037-de3a625c0b51)

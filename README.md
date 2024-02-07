@@ -10,4 +10,6 @@
 sh0cklife/sh0cklife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<iframe src="https://giphy.com/embed/DhFLtX4Nxi180H5WGg" width="421" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/TripleTen-tech-coding-tripleten-DhFLtX4Nxi180H5WGg">via GIPHY</a></p>
+<div id="header" align = "center">
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxiYjNiNXl4a3I5OHkwZDVmaW1tcmwxNGNwMmMza3BsMDF3MDUwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif
+</div>

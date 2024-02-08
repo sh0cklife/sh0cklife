@@ -12,5 +12,15 @@ Skills: C# / JS / SQL /
 - ⚡ Fun fact: I have a pet dog border collie named Yoko 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](/https://github.com/sh0cklife)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](/www.linkedin.com/in/dennis-atanasoff-67327b113/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sh0cklife)  
+<a href="https://github.com/sh0cklife" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
+</a>
+
+<a href="https://www.linkedin.com/in/dennis-atanasoff-67327b113/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
+</a>
+
+<a href="https://twitter.com/sh0cklife" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40">
+</a>
 

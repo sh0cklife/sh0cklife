@@ -3,8 +3,6 @@
 
 A dedicated professional from Bulgaria 🇧🇬, specializing in Quality Assurance Automation Engineering. With a fervent passion for technology and an unwavering commitment to excellence, I am continuously honing my skills to become a proficient QA Automation Engineer.
 
-Skills: C# / JS / SQL /
-
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Integration testing 
 - 💬 Ask me about my coding journey 

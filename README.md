@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Dennis
+### Hi there 👋, my name is Denis
 ![Quality Assurance Automation Engineering](https://github.com/sh0cklife/sh0cklife/blob/main/banner.png?raw=true)
 
 A dedicated professional from Bulgaria 🇧🇬, specializing in Quality Assurance Automation Engineering. With a fervent passion for technology and an unwavering commitment to excellence, I am continuously honing my skills to become a proficient QA Automation Engineer.

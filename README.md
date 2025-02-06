@@ -3,7 +3,7 @@
 
 A dedicated professional from Bulgaria 🇧🇬, specializing in Quality Assurance Automation Engineering. With a fervent passion for technology and an unwavering commitment to excellence, I am continuously honing my skills to become a proficient QA Automation Engineer.
 
-- 🔭 I’m currently working from home on my boring 9-5 job 
+- 🔭 I’m currently working from home
 - 🌱 I’m currently learning Software engineering & DevOps
 - 💬 Ask me about my coding journey
 - 😄 Pronouns: He/Him 
